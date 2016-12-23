@@ -1,0 +1,3 @@
+To use this Test Code, you need to extract and place the "esp8266-oled-ssd1306-master" library in your "libraries" folder of the Arduino IDE. 
+The "esp8266-oled-ssd1306-master" has been added from https://github.com/squix78/esp8266-oled-ssd1306 
+The "images.h" and the ".ino" sketch must be in the same folder.
