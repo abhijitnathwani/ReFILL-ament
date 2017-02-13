@@ -1,4 +1,8 @@
-
+/*
+Test Code for OLED Display for the ReFILL-ament project.
+https://www.hackster.io/abhijit-nathwani/refill-ament-for-3d-printers-261881
+By Abhijit Nathwani
+*/
 // Include the correct display library
 // For a connection via I2C using Wire include
 #include <Wire.h>  // Only needed for Arduino 1.6.5 and earlier
